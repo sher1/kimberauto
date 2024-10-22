@@ -4,17 +4,21 @@
 
 layout: home
 ---
-###Kimber Auto Repair
-## Honest - Fair - Quick
-![Kimber Auto graphic including all information on the rest of the page](assets/kimber-auto.webp)
+# Kimber Auto Repair  ***Honest - Fair - Quick*** 
+![Kimber Auto graphic including all information on the rest of the page](assets/img/kimber-auto.webp)
 ---
 
-**Hours**
+## Hours
 Monday through Friday 8am-5pm, closed most holidays.
 
+## Contact
+801-489-9400
+179 W 900 N
+Springville UT 84663
+***Owned and Operated by Travis Kimber***
 
-**Services**
-Minor to Major Automotive Repair including
+## Services
+*Minor to Major Automotive Repair including*
  - Shocks
  - Struts
  - Brakes
